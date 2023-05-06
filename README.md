@@ -1,6 +1,8 @@
-# ImageGenerationOpenai
+# Image Generation From OpenAI
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+This is a image generator that take a text and generate a image from that text with help from OpenAI.
+If you will test it you must put in your own OpenAI key.
+You will get it from [OpenAI](https://platform.openai.com/)
 
 ## Development server
 
